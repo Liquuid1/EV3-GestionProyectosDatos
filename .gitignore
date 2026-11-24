@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+Datasets/*
+!Datasets/README.md
+!Datasets/SHA256SUMS
+Prototipo/resultados*.json
