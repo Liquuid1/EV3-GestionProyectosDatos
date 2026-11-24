@@ -9,3 +9,4 @@ Datasets/*
 !Datasets/README.md
 !Datasets/SHA256SUMS
 Prototipo/resultados*.json
+.gitignore
